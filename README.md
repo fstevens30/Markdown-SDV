@@ -11,11 +11,13 @@
 - Item 1
 - Item 2
 - Item 3
-- 
-[title](https://www.google.com/)
+
+[Google Link](https://www.google.com/)
 
 `console.Log("Hello World!")`
 
--[x] Write Read me repo
--[] Update repository
--[] Fix bug
+- [x] Write Read me repo
+- [ ] Update repository
+- [ ] Fix bug
+
+This makes me sad... :sad:
