@@ -20,4 +20,4 @@
 - [ ] Update repository
 - [ ] Fix bug
 
-This makes me sad... :sad:
+This makes me sad... :sob:
